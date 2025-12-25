@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / venv
+.conda/
+.env/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Data outputs (optional - adjust to your needs)
+data/processed/
+output/figures/
+
+# Altair / HTML build (keep docs for GitHub Pages)
+# (do not ignore docs/)
